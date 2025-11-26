@@ -47,7 +47,7 @@ I focus on clean, scalable, and modern WordPress development.
 ---
 
 ## 📌 Featured Project
-### 🔗 **Yacty – WordPress Mega Menu Plugin**  
+### 🔗 **Yacty – Yacht & Boat Rental WordPress Theme**  
 👉 <a href="https://wp.xpressbuddy.com/yacty/" target="_blank">Live Demo</a>
 
 ---
