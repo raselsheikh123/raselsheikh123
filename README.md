@@ -48,22 +48,21 @@ I focus on clean, scalable, and modern WordPress development.
 
 ## 📌 Featured Project
 ### 🔗 **Yacty – WordPress Mega Menu Plugin**  
-👉 Live Demo: **https://wp.xpressbuddy.com/yacty/**
+👉 <a href="https://wp.xpressbuddy.com/yacty/" target="_blank">Live Demo</a>
 
 ---
 
 ## 📚 What I'm Learning Now
 - ⚛️ Currently learning **React**  
 
-
 ---
 
 ## 📬 Contact Me
-📧 Email: **hello.raselsheikh@gmail.com**  
-🌐 Portfolio: **https://alterdiv.com/**  
-🔗 LinkedIn: **https://www.linkedin.com/in/raselsheikh123/**  
-🐦 Twitter: **https://x.com/raselsheikh123**  
-📘 Facebook: **https://www.facebook.com/raselsheikh123**
+📧 Email: **<a href="mailto:hello.raselsheikh@gmail.com" target="_blank">hello.raselsheikh@gmail.com</a>**  
+🌐 Portfolio: **<a href="https://alterdiv.com/" target="_blank">https://alterdiv.com/</a>**  
+🔗 LinkedIn: **<a href="https://www.linkedin.com/in/raselsheikh123/" target="_blank">linkedin.com/in/raselsheikh123</a>**  
+🐦 Twitter: **<a href="https://x.com/raselsheikh123" target="_blank">x.com/raselsheikh123</a>**  
+📘 Facebook: **<a href="https://www.facebook.com/raselsheikh123" target="_blank">facebook.com/raselsheikh123</a>**
 
 ---
 
