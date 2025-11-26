@@ -1,5 +1,5 @@
 # 🌟 Hi, I'm Rasel Sheikh  
-### 💻 Full-Stack WordPress Developer | Bangladesh
+### 💻 Full-Stack WordPress Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=raselsheikh&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
