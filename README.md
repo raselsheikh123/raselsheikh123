@@ -55,14 +55,6 @@ I focus on clean, scalable, and modern WordPress development.
 ## 📚 What I'm Learning Now
 - ⚛️ Currently learning **React**  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=raselsheikh&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=raselsheikh&theme=radical" />
-</p>
 
 ---
 
